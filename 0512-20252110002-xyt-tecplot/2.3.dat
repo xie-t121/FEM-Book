@@ -1,0 +1,11 @@
+TITLE = "Example 2.3 quad2"
+VARIABLES = "X", "Y"
+ZONE N=6, E=2, F=FEPOINT, ET=QUADRILATERAL
+0.5 1.0
+0.5 1.5
+0.5 2.0
+1.0 1.0
+1.0 1.5
+1.0 2.0
+1 4 5 2
+2 5 6 3
